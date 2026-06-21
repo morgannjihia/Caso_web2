@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root{
+  --caso-blue:#0A3D62;
+  --caso-gold:#F4B400;
+  --caso-purple:#6A1B9A;
+  --caso-light:#F8FAFC;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+  background:#fff;
+  color:#111827;
+}
